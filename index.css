@@ -35,3 +35,9 @@ p {
 #phone {
     padding-top: 30px;
 }
+
+.camppic {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
